@@ -17,7 +17,7 @@ iframe {
     justify-content: center;
     height: 400px;
     width: 800px;
-    margin-left: 500px;
+    margin-left: 255px;
 }
 
 .btn {
@@ -26,40 +26,4 @@ iframe {
     font-family: 'Times New Roman', Times, serif;
     box-shadow: inset;
     display: inline-flexbox;
-}
-
-.fa {
-    padding: 120px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-}
-
-
-/* Add a hover effect if you want */
-
-.fa:hover {
-    opacity: 0.7;
-}
-
-
-/* Set a specific color for each brand */
-
-
-/* Linked in */
-
-.fa-Linkedin {
-    background: #3b7698;
-    color: white;
-    font-size: large;
-    width: 80px;
-}
-
-
-/* Twitter */
-
-.fa-twitter {
-    background: #55ACEE;
-    color: rgb(8, 197, 211);
 }
