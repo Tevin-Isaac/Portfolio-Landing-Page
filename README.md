@@ -1,11 +1,11 @@
 # Portfolio landing page
 #### By **Tevin Isaac**
 ## Description
-This is a web application that shows aportfolio profile about anyone.
+This is a web application that shows a portfolio profile about anyone.
 ## Behaviour Driven Development(BDD)
 |Behaviour| Input| Output|
 |:--------|:-----|:------|
-click contact me button to see contact details and about  to see details about the person.
+click view project button to view resume.then click on nav bar menus to view them.
 ## Setup/Installation Requirements
 * Create an account on Github
 * Fork the repository from Github:[https://github.com/Tevin-creator/Portfolio-Landing-Page](https://github.com/Tevin-creator/Portfolio-Landing-Page)
