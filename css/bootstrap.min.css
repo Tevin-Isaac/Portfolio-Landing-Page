@@ -174,8 +174,8 @@ input[type="submit"] {
     cursor: pointer
 }
 
-button[disabled],
-html input[disabled] {
+button[enabled],
+html input[enabled] {
     cursor: default
 }
 
