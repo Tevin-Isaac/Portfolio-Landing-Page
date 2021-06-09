@@ -30,11 +30,12 @@
         }, 500);
     });
 
+
     // Scroll to first element
     $('#lead-down span').click(function() {
         var scrollDistance = $('#lead').next().offset().top;
         $('html, body').animate({
-            scrollTop: scrollDistance + '5px'
+            scrollTop: scrollDistance + 'px'
         }, 500);
     });
 
