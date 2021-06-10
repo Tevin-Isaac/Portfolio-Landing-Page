@@ -85,14 +85,14 @@ header a {
 }
 
 header a:hover {
-    color: #217dbb;
+    color: #103f96;
     text-decoration: none;
     background: #eee;
     border-radius: 4px
 }
 
 header a:focus {
-    color: #3498db;
+    color: #4ba3dd;
     text-decoration: none
 }
 
