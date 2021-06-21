@@ -5,7 +5,10 @@ This is a web application that shows a portfolio profile about anyone.
 ## Behaviour Driven Development(BDD)
 |Behaviour| Input| Output|
 |:--------|:-----|:------|
-click view project button to view resume.then click on nav bar menus to view them.
+click view on nav bar menus to land on the links.
+![Screenshot from 2021-06-21 -26-56 copy](https://user-images.githubusercontent.com/81568615/122823755-6abdc780-d2e8-11eb-9d03-008e4a28a6cc.png)
+
+
 ## Setup/Installation Requirements
 * Create an account on Github
 * Fork the repository from Github:[https://github.com/Tevin-creator/Portfolio-Landing-Page](https://github.com/Tevin-creator/Portfolio-Landing-Page)
